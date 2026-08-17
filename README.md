@@ -1,5 +1,5 @@
 # Leetcode_Day19
-# Day 18 — LeetCode 26: Remove Duplicates from Sorted Array
+# Day 19 — LeetCode 26: Remove Duplicates from Sorted Array
 
 ## Problem
 
